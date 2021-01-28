@@ -1,0 +1,5 @@
+make tag in git repository:
+> git tag -a 1.0.0 -m "description"
+
+# list tags
+> git tag -l "v1.2.3"
