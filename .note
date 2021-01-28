@@ -3,3 +3,9 @@ make tag in git repository:
 
 # list tags
 > git tag -l "v1.2.3"
+
+# add tag on comit
+> git tag -a v1.2.3 76c6ad6
+
+# checkout to tag
+> git checkout <tag-name>
