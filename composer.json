@@ -1,0 +1,13 @@
+{
+    "name": "andychen/hello",
+    "description": "package for test package my code.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andy.Chen",
+            "email": "f107110126@gmail.com"
+        }
+    ],
+    "require": {}
+}
