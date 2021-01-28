@@ -9,5 +9,10 @@
             "email": "f107110126@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AndyChen\\Hello\\": "src/"
+        }
+    }
 }
